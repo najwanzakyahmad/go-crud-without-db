@@ -1,0 +1,23 @@
+Go Movie REST API
+
+Proyek ini adalah contoh sederhana RESTful API menggunakan Golang dan Gorilla Mux untuk melakukan operasi CRUD (Create, Read, Update, Delete) pada data movie.
+
+API ini cocok untuk:
+- Belajar dasar REST API di Go
+- Contoh penggunaan net/http
+- Routing menggunakan gorilla/mux
+- Handling JSON request & response
+
+🚀 Fitur
+- Get semua movie
+- Get movie berdasarkan ID
+- Tambah movie baru
+- Update movie
+- Hapus movie
+- Response dalam format JSON
+
+🛠️ Teknologi yang Digunakan
+- Go (Golang)
+- net/http
+- gorilla/mux
+- encoding/json
